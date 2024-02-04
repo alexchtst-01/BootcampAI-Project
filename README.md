@@ -16,8 +16,8 @@
 |***Description:***|_Proyek ini memberikan kesempatan untuk berkomunikasi dengan penyandang turnarunggu dengan memberikan huruf info yang diberikan melalui sign hand atau bahasa isyarat_|
 
 ## Target and Points of the Application
-1. Give the chance for the deaf person and normal person to comunicate ***[check]***
-2. Makes commication between deaf person and normal person becomes easier ***[check]***
+1. Give the chance for the deaf person and normal person to comunicate ~***[check]***~
+2. Makes commication between deaf person and normal person becomes easier ~***[check]***~
 
 ## Simple Use Case of the Program
 1. Deaf Peson comunicate using the sign language
@@ -36,5 +36,4 @@
 ### - 3. _[ ***train_classifier.py, training_model.ipynb*** ]_ training data, evaluate model, and save the model
 
 ## Documentation
-The Image That Refrenced to the model
 ![My Image](signLaguage.jpg)
