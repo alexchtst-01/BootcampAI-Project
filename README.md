@@ -40,4 +40,8 @@
 
 
 ## Bug Fixing at Presentation
-[![Watch the video]('bugfixing.mp4')]
+
+
+https://github.com/alexchtst-01/BootcampAI-Project/assets/139350139/037d23ff-c46b-4750-bb95-6a94041c564f
+
+
