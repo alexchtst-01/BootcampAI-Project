@@ -37,3 +37,7 @@
 
 ## Documentation
 ![My Image](signLaguage.jpg)
+
+
+## Bug Fixing at Presentation
+[![Watch the video]('bugfixing.mp4')]
